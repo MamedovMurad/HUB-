@@ -50,7 +50,7 @@ body{
 .line{
     position: absolute;
     margin: 0;
-    left: 28px;
+    left: 33px;
     width: 100%;
     background-color: rgb(114, 113, 112);
     height: 0.4px;
@@ -87,7 +87,7 @@ input{
     outline: none;
     border-radius: 4px;
     height: 50px;
-    margin: 19px 0 0 28px;
+    margin: 19px 0 0 33px;
     width: 100%;
     border: none;
     background-color: #F5F5F5;
